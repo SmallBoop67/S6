@@ -1,6 +1,20 @@
-# D1 starter
+# Egg Clicker
 
-A minimal TypeScript/Vite browser project with Deno checks and GitHub Pages deployment.
+A minimal TypeScript/Vite incremental clicker: tap the egg for coins, buy eggs
+from the shop, and hatch Pokémon from the PokeAPI sprite set. Every hatch has a
+chance to be **shiny** — shiny Pokémon are permanently highlighted in your
+collection and celebrated with sparkles.
+
+## How to play
+
+1. Tap the big egg to earn coins.
+2. Spend coins in the **Egg Shop** on five tiers of eggs, from Basic to Master.
+   Higher tiers have better rarity odds (up to legendary).
+3. Buy upgrades:
+   - **Better Bait** — more coins per tap
+   - **Incubator** — passive coins per second
+   - **Shiny Amulet** — raises the shiny hatch chance (base 1%, cap 15%)
+4. Hatch Pokémon and fill your collection. Progress saves automatically.
 
 ## Credits
 
