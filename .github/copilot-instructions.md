@@ -1,1 +1,0 @@
-Read and follow the project-root `AGENTS.md` 
